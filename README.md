@@ -13,9 +13,5 @@ Engage in 3 unique driving scenes—Snow, Desert, and Forest. Utilizing the Road
 ## Controls
 Navigate seamlessly using arrow keys (Up, Down, Left, Right) in both showroom and game scenes.
 
-## ScreenShots
-![Showroom](https://github.com/Lee-16/Showroom-Explore-CarHub/blob/main/ScreenShots/Showroom.png)
-
-![Game Scenes](https://github.com/Lee-16/Showroom-Explore-CarHub/blob/main/ScreenShots/Desert.png,https://github.com/Lee-16/Showroom-Explore-CarHub/blob/main/ScreenShots/Forest.png,https://github.com/Lee-16/Showroom-Explore-CarHub/blob/main/ScreenShots/Snow.png) 
 
 
